@@ -150,6 +150,3 @@ def fetch_student_data_from_db(pins, min_credit, start_date, end_date):
     conn.close()
 
     return student_data
-
-
-print("HTML-report was successfully created and saved in 'report.html'")
