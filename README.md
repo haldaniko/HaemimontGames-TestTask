@@ -14,6 +14,5 @@ To use the script, run it from the command line with the following syntax:
 All arguments are mandatory. Note that if any argument is missing or incorrect, an error will occur. Unfortunately, due to time constraints, error handling and making certain elements optional were not implemented in this version of the script.
 
 ## Example
-• python main.py 9412011005,9501011014,9507141009 50 2018-01-01 2024-04-01 csv new_derictory/another_one/my_dir
-• python main.py 9412011005,9507141009 50 2015-01-01 2024-04-01 html beautiful/dir/in/dir
-
+    • python main.py 9412011005,9501011014,9507141009 50 2018-01-01 2024-04-01 csv new_derictory/another_one/my_dir
+    • python main.py 9412011005,9507141009 50 2015-01-01 2024-04-01 html beautiful/dir/in/dir
